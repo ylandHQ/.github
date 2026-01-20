@@ -29,7 +29,7 @@ We treat domains as financial assets. Every transfer is handled with enterprise-
 
 #### 🔗 Connect
 
-*   **Official Marketplace**: [y.land](https://y.land)
+*   **Official Marketplace**: [Y.LAND](https://y.land)
 *   **Social**: [LinkedIn](https://www.linkedin.com/company/y-land) | [Facebook](https://www.facebook.com/ylandHQ) | [X (Twitter)](https://x.com/ylandHQ) | [Instagram](https://www.instagram.com/ylandhq) | [Threads](https://www.threads.com/@ylandhq)
 *   **Founder (Yuzhou Xie)**: [GitHub](https://github.com/perishability) | [LinkedIn](https://www.linkedin.com/in/yuzhouxie/)
 
